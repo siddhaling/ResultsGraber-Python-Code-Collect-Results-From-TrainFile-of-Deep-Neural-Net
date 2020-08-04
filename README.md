@@ -62,7 +62,10 @@ www.researchreader.com
 https://medium.com/@dr.siddhaling
 
 Dr. Siddhaling Urolagin,
+
 PhD, Post-Doc, Machine Learning and Data Science Expert,
+
 Passioinate Researcher, Focus on Deep Learning and its applications,
+
 dr.siddhaling@gmail.com
 
