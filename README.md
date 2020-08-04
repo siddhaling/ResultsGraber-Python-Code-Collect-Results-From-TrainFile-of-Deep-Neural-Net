@@ -34,6 +34,7 @@ At the end of 482 sample it will provide very valuable results such as loss and 
 This program will read the given such a result file and extract information related to epochs then produce an Excel file.  
 
 See the output as an example the file epochsResIntoExcel.xls.
+![alt text](https://github.com/siddhaling/ResultsGraber-Python-Code-Collect-Results-From-TrainFile-of-Deep-Neural-Net/blob/master/ExcelOfEpochs.jpg)
 
 How to run this python code?
 The input to this python code is a text file which is generated during Deep Learning training phase.
