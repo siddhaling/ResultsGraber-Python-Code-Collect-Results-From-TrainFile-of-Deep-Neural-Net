@@ -19,19 +19,13 @@ Number of test samples in Dataset:  121
 Train on 482 samples, validate on 121 samples
 
 Epoch 1/10
-
- 
-10/482 [..............................] - ETA: 2:45 - loss: 2.3024 - acc: 0.0000e+00
- 
-20/482 [>.............................] - ETA: 2:15 - loss: 2.2919 - acc: 0.1500    
- 
-30/482 [>.............................] - ETA: 2:03 - loss: 2.2769 - acc: 0.3333
- 
-40/482 [=>............................] - ETA: 1:56 - loss: 2.2564 - acc: 0.4000
- 
-50/482 [==>...........................] - ETA: 1:49 - loss: 2.2267 - acc: 0.4800
- 
-60/482 [==>...........................] - ETA: 1:44 - loss: 2.1841 - acc: 0.5167
+\
+10/482 [..............................] - ETA: 2:45 - loss: 2.3024 - acc: 0.0000e+00 \ 
+20/482 [>.............................] - ETA: 2:15 - loss: 2.2919 - acc: 0.1500 \ 
+30/482 [>.............................] - ETA: 2:03 - loss: 2.2769 - acc: 0.3333 \ 
+40/482 [=>............................] - ETA: 1:56 - loss: 2.2564 - acc: 0.4000 \
+50/482 [==>...........................] - ETA: 1:49 - loss: 2.2267 - acc: 0.4800 \ 
+60/482 [==>...........................] - ETA: 1:44 - loss: 2.1841 - acc: 0.5167 \
 
 ........
 
@@ -61,11 +55,8 @@ www.researchreader.com
 
 https://medium.com/@dr.siddhaling
 
-Dr. Siddhaling Urolagin,
-
-PhD, Post-Doc, Machine Learning and Data Science Expert,
-
-Passioinate Researcher, Focus on Deep Learning and its applications,
-
+Dr. Siddhaling Urolagin,\
+PhD, Post-Doc, Machine Learning and Data Science Expert,\
+Passioinate Researcher, Focus on Deep Learning and its applications,\
 dr.siddhaling@gmail.com
 
